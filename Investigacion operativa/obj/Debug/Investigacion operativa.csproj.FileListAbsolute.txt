@@ -1,0 +1,29 @@
+C:\Users\Ricardo\source\repos\Investigacion operativa\Investigacion operativa\bin\Debug\Investigacion operativa.exe.config
+C:\Users\Ricardo\source\repos\Investigacion operativa\Investigacion operativa\bin\Debug\Investigacion operativa.exe
+C:\Users\Ricardo\source\repos\Investigacion operativa\Investigacion operativa\bin\Debug\Investigacion operativa.pdb
+C:\Users\Ricardo\source\repos\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion operativa.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion_operativa.Form1.resources
+C:\Users\Ricardo\source\repos\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion_operativa.Properties.Resources.resources
+C:\Users\Ricardo\source\repos\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion operativa.csproj.GenerateResource.cache
+C:\Users\Ricardo\source\repos\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion operativa.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion operativa.exe
+C:\Users\Ricardo\source\repos\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion operativa.pdb
+C:\Users\OSCAR CUBA\Documents\Visual Studio 2017\Projects\Investigacion operativa\Investigacion operativa\bin\Debug\Investigacion operativa.exe.config
+C:\Users\OSCAR CUBA\Documents\Visual Studio 2017\Projects\Investigacion operativa\Investigacion operativa\bin\Debug\Investigacion operativa.exe
+C:\Users\OSCAR CUBA\Documents\Visual Studio 2017\Projects\Investigacion operativa\Investigacion operativa\bin\Debug\Investigacion operativa.pdb
+C:\Users\OSCAR CUBA\Documents\Visual Studio 2017\Projects\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion operativa.csprojResolveAssemblyReference.cache
+C:\Users\OSCAR CUBA\Documents\Visual Studio 2017\Projects\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion_operativa.Form1.resources
+C:\Users\OSCAR CUBA\Documents\Visual Studio 2017\Projects\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion_operativa.Properties.Resources.resources
+C:\Users\OSCAR CUBA\Documents\Visual Studio 2017\Projects\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion operativa.csproj.GenerateResource.Cache
+C:\Users\OSCAR CUBA\Documents\Visual Studio 2017\Projects\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion operativa.exe
+C:\Users\OSCAR CUBA\Documents\Visual Studio 2017\Projects\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion operativa.pdb
+C:\Users\Ricardo\Downloads\Investigacion operativa\Investigacion operativa\bin\Debug\Investigacion operativa.exe.config
+C:\Users\Ricardo\Downloads\Investigacion operativa\Investigacion operativa\bin\Debug\Investigacion operativa.exe
+C:\Users\Ricardo\Downloads\Investigacion operativa\Investigacion operativa\bin\Debug\Investigacion operativa.pdb
+C:\Users\Ricardo\Downloads\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion operativa.csprojAssemblyReference.cache
+C:\Users\Ricardo\Downloads\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion_operativa.Form1.resources
+C:\Users\Ricardo\Downloads\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion_operativa.Properties.Resources.resources
+C:\Users\Ricardo\Downloads\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion operativa.csproj.GenerateResource.cache
+C:\Users\Ricardo\Downloads\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion operativa.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Downloads\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion operativa.exe
+C:\Users\Ricardo\Downloads\Investigacion operativa\Investigacion operativa\obj\Debug\Investigacion operativa.pdb
